@@ -1,1 +1,2 @@
-vamos a hacer una calculadora 
+Vamos a hacer una calculadora.
+Alberto entra como colaborador.
